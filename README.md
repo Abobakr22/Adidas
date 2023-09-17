@@ -1,2 +1,2 @@
 # Adidas
-A REsponsive Glass Website Using HTML and CSS only
+A Responsive Glass Website Using HTML and CSS only
